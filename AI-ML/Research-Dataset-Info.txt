@@ -17,4 +17,4 @@ Research :
 - claude -> Text Formation And Structure 
 - PPT -> PPT outline -> Kimi  
 
-Environment: Google Colab Cpu
+Environment: Google Colab Cpu.
