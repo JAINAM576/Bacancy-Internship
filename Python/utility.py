@@ -1,12 +1,12 @@
 import os
 
 # Directory to store SQL files
-output_dir = r"C:\Users\HP\Documents\Bacancy\Python\Test-1-Practice\Easy\productDb"
+output_dir = "."
 os.makedirs(output_dir, exist_ok=True)
 
 # Example problem statement and query (you can customize later)
-problem_statement = "Show first name, last name, and gender of patients whose gender is 'M'"
-query = "select first_name,last_name,gender from patients where gender='M';"
+problem_statement = ""
+query = ""
 
 # Generate files from problem_3.sql to problem_30.sql
 for i in range(1, 17):
