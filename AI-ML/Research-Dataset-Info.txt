@@ -1,0 +1,20 @@
+When_To_Use_Uniform_Distribution.ipynb : Movielens Dataset From Kaggle 
+Uniform_T_Test_Case_Study.ipynb : Movielens Dataset From Kaggle 
+
+Paired_T_Test_Between_LLM_Models.ipynb : Extract the data from the https://huggingface.co/spaces/open-llm-leaderboard/comparator
+- Llama-2-70B vs Flan-T5-XXL
+
+REFERENCES : 
+1. Stitch Fix Algorithms Tour
+- URL: algorithms-tour.stitchfix.com
+
+2. Stitch Fix Tech Blog: "Multithreaded"
+- URL:multithreaded.stitchfix.com
+
+
+Research :
+- Company Blogs/ Medium / Reddit / Perplexity -> Content Gathers
+- claude -> Text Formation And Structure 
+- PPT -> PPT outline -> Kimi  
+
+Environment: Google Colab Cpu

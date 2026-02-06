@@ -1,0 +1,29 @@
+Distribution and Hypothesis Test Allocation
+
+Name: Chetan
+Distribution: Bernoulli
+Statistical Test: Two-Sample Independent t-test
+
+Name: Prince
+Distribution: Binomial
+Statistical Test: One-Sample t-test
+
+Name: Jainam
+Distribution: Uniform
+Statistical Test: Paired t-test
+
+Name: Tushar
+Distribution: Pareto
+Statistical Test: ANOVA
+
+Name: Khooshi
+Distribution: Log-Normal
+Statistical Test: Z-test
+
+Name: Bhavik
+Distribution: Poisson
+Statistical Test: Chi-square Test of Independence
+
+Name: Vishlesh
+Distribution: Normal
+Statistical Test: Chi-square Goodness-of-Fit Test
